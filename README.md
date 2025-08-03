@@ -69,3 +69,7 @@ Developed by *Sara Abid*
 
 Special thanks to the Raylib community and the creators of Metal Slug for inspiration and reference.
 
+## LICENSE
+This project is licensed under the MIT License.<br>
+Feel free to use, modify, and share it for personal or educational purposes.
+
