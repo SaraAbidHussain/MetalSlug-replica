@@ -37,7 +37,7 @@ brew install raylib
 sudo apt install libraylib-dev
 ```
 **Windows** <br>
-Download Raylib from https://www.raylib.com/
+Download Raylib from https://www.raylib.com/.<br>
 Follow the setup instructions for MinGW or MSVC.
 
 ### 2. Clone the repository
@@ -47,7 +47,7 @@ You can clone or download as ZIP using the green Code button.
 Use your preferred compiler to compile all .cpp files. On Windows, make sure to link Raylib correctly depending on your compiler before running the game. 
 
 ## 📁 Folder Structure
-Final Metal Slug/
+Final Metal Slug/ <br>
 ├── assets/                # Sprites, sounds, etc.<br>
 ├── Bullet.cpp/h<br>
 ├── Enemy.cpp/h<br>
