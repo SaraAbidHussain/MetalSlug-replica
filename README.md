@@ -31,13 +31,40 @@ A modern take on the classic **Metal Slug** arcade game — a side-scrolling, ru
 **macOS** (Homebrew):
 ```bash
 brew install raylib
-
-
+```
 **Ubuntu** 
+```bash
 sudo apt install libraylib-dev
-
+```
 **Windows**
 Download Raylib from https://www.raylib.com/
 Follow the setup instructions for MinGW or MSVC.
 
+### 2. Clone the repository
+You can clone or download as ZIP using the green Code button.
+
+### 3. Compile and Run
+Use your preferred compiler to compile all .cpp files. On Windows, make sure to link Raylib correctly depending on your compiler before running the game. 
+
+## 📁 Folder Structure
+Final Metal Slug/
+├── assets/                # Sprites, sounds, etc.
+├── Bullet.cpp/h
+├── Enemy.cpp/h
+├── Game.cpp/h
+├── GameObject.cpp/h
+├── GameState.cpp/h
+├── GroundEnemy.cpp/h
+├── Level.cpp/h
+├── Player.cpp/h
+├── SkyEnemy.cpp/h
+├── SkyEnemyBullet.cpp/h
+├── MAIN.cpp              # Entry point
+└── README.md
+
+## Credits
+Developed by *Sara Abid*
+GitHub: @SaraAbidHussain
+
+Special thanks to the Raylib community and the creators of Metal Slug for inspiration and reference.
 
